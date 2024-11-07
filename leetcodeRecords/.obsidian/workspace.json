@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "动态规划/简单 - 746. 使用最小花费爬楼梯.md",
+                "file": "动态规划/中等 - 62. 不同路径.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "简单 - 746. 使用最小花费爬楼梯"
+              "title": "中等 - 62. 不同路径"
             }
           }
         ],
@@ -177,12 +177,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c57db1ed3ed59d20",
+  "active": "1e6ff2495e383d23",
   "lastOpenFiles": [
+    "Pasted image 20241107143300.png",
+    "动态规划/简单 - 746. 使用最小花费爬楼梯.md",
+    "动态规划/中等 - 62. 不同路径.md",
+    "Pasted image 20241107143152.png",
     "动态规划",
     "easy",
     "Pasted image 20241107135243.png",
-    "动态规划/简单 - 746. 使用最小花费爬楼梯.md",
     "欢迎.md"
   ]
 }
