@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "树/简单 - 637 - 二叉树的层平均值.md",
+                "file": "树/中等 - 429 - N叉树的层序遍历.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "简单 - 637 - 二叉树的层平均值"
+              "title": "中等 - 429 - N叉树的层序遍历"
             }
           }
         ],
@@ -203,8 +203,10 @@
   },
   "active": "2ba04dda1f8f954f",
   "lastOpenFiles": [
-    "树/中等 - 199 - 二叉树的右视图.md",
+    "Pasted image 20241116142637.png",
     "树/简单 - 637 - 二叉树的层平均值.md",
+    "树/中等 - 429 - N叉树的层序遍历.md",
+    "树/中等 - 199 - 二叉树的右视图.md",
     "Pasted image 20241116114223.png",
     "Pasted image 20241116111656.png",
     "Pasted image 20241116111653.png",
