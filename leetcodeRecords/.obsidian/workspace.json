@@ -49,12 +49,14 @@
             "id": "26b148b245876f01",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20241203161108.png"
+                "file": "树/中等 - 669 - 修剪二叉树.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241203161108"
+              "icon": "lucide-file",
+              "title": "中等 - 669 - 修剪二叉树"
             }
           }
         ],
@@ -199,8 +201,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c57db1ed3ed59d20",
+  "active": "26b148b245876f01",
   "lastOpenFiles": [
+    "Pasted image 20241204094025.png",
+    "树/中等 - 669 - 修剪二叉树.md",
     "树/中等 - 701 - 二叉搜索树中的插入操作.md",
     "Pasted image 20241203161216.png",
     "树/中等 - 450 - 删除二叉搜索树中的节点.md",
@@ -220,7 +224,6 @@
     "树/简单 - 700 - 二叉搜索树中的搜索.md",
     "Pasted image 20241130093658.png",
     "树/简单 - 617 - 合并二叉树.md",
-    "Pasted image 20241129102750.png",
     "树/中等 - 654 - 最大二叉树.md",
     "树/中等 - 116 - 填充每个节点的下一个右侧节点指针.md",
     "树/中等 - 105 - 从前序与中序遍历序列构造二叉树.md",
@@ -235,7 +238,6 @@
     "链表/简单 - 21 - 合并两个有序链表.md",
     "链表/中等 - 2 - 两数想加.md",
     "链表/简单 - 141 - 环形链表.md",
-    "链表/简单 - 234 - 回文链表.md",
     "链表",
     "每日一题",
     "树",
