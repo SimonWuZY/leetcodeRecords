@@ -49,12 +49,14 @@
             "id": "26b148b245876f01",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20241215095214.png"
+                "file": "字符串/简答 - 415 - 字符串相加.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241215095214"
+              "icon": "lucide-file",
+              "title": "简答 - 415 - 字符串相加"
             }
           }
         ],
@@ -199,8 +201,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c57db1ed3ed59d20",
+  "active": "26b148b245876f01",
   "lastOpenFiles": [
+    "Pasted image 20241227140902.png",
+    "字符串/简答 - 415 - 字符串相加.md",
+    "Pasted image 20241228200323.png",
+    "字符串/中等 - 165 - 比较版本号.md",
     "滑动窗口/中等 - 3 - 无重复字符的最长子串.md",
     "Pasted image 20241225092554.png",
     "滑动窗口",
@@ -219,9 +225,7 @@
     "链表/简单 - 140 - 链表中倒数第 k 个节点.md",
     "链表/中等 - 92 - 反转链表2.md",
     "Pasted image 20241212110242.png",
-    "Pasted image 20241212105933.png",
     "数组/中等 - 56 - 合并区间.md",
-    "Pasted image 20241210154550.png",
     "树/二叉树的前序遍历.md",
     "树/简单 - 100 - 相同的树.md",
     "树/中等 - 129 - 求根节点到叶节点数字之和.md",
@@ -238,8 +242,6 @@
     "树/中等 - 538 - 把二叉搜索树转换为累加树.md",
     "树/中等 - 669 - 修剪二叉树.md",
     "树/中等 - 701 - 二叉搜索树中的插入操作.md",
-    "树/中等 - 450 - 删除二叉搜索树中的节点.md",
-    "树/中等 - 235 - 二叉搜索树的最近公共祖先.md",
     "链表",
     "每日一题",
     "树",
