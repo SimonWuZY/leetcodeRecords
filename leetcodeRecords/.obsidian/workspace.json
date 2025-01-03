@@ -49,14 +49,12 @@
             "id": "26b148b245876f01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "回溯/39 - 中等 - 组合总和.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250103231424.png"
               },
-              "icon": "lucide-file",
-              "title": "39 - 中等 - 组合总和"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250103231424"
             }
           }
         ],
@@ -203,8 +201,10 @@
   },
   "active": "26b148b245876f01",
   "lastOpenFiles": [
-    "Pasted image 20250101153628.png",
+    "数组/中等 - 48 - 旋转图像.md",
+    "Pasted image 20250103231424.png",
     "回溯/39 - 中等 - 组合总和.md",
+    "Pasted image 20250101153628.png",
     "Pasted image 20250102111135.png",
     "Pasted image 20250102111121.png",
     "Pasted image 20250102111103.png",
@@ -220,7 +220,6 @@
     "滑动窗口/中等 - 3 - 无重复字符的最长子串.md",
     "Pasted image 20241225092554.png",
     "滑动窗口",
-    "Pasted image 20241222202526.png",
     "二分查找/搜索插入位置.md",
     "栈与队列/未命名.md",
     "树/中等 - 114 - 二叉树展开为链表.md",
@@ -242,7 +241,6 @@
     "数组/简单 - 1365 - 有多少小于当前数字的数字.md",
     "树/简单 - 108 - 将有序数组转换为二叉搜索树.md",
     "数组",
-    "每日一题/简单 - 3248 - 矩阵中的蛇.md",
     "链表",
     "每日一题",
     "树",
